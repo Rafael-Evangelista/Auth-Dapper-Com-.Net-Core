@@ -1,0 +1,16 @@
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.deps.json
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.dll
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.pdb
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.AssemblyInfo.cs
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.dll
+C:\Users\rafae\Desktop\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.pdb
+C:\Projetos\authentication-library\authentication-library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.deps.json
+C:\Projetos\authentication-library\authentication-library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.dll
+C:\Projetos\authentication-library\authentication-library\Library.Domain\bin\Debug\netcoreapp2.1\Library.Domain.pdb
+C:\Projetos\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.AssemblyInfoInputs.cache
+C:\Projetos\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.AssemblyInfo.cs
+C:\Projetos\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.dll
+C:\Projetos\authentication-library\authentication-library\Library.Domain\obj\Debug\netcoreapp2.1\Library.Domain.pdb
